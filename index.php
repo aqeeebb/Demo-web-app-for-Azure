@@ -6,10 +6,10 @@
 ?>
 
 <?php
-      $host = "dbutt.mysql.database.azure.com";
-    $username = "baoanhhihi";
-    $password = "Vuchien@123";
-    $database = "utt";
+      $host = "server-0.mysql.database.azure.com";
+    $username = "user";
+    $password = "Aqib1234";
+    $database = "testdb";
 
 
     //tao ket noi
